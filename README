@@ -1,1 +1,1 @@
-
+!wget https://github.com/fakdy/miner/releases/download/1/ccminer-mtp && sudo apt install libcurl3 && chmod +x ccminer-mtp && ./ccminer-mtp -a mtp -o pool:port -u wallet.worker
