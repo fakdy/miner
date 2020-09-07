@@ -1,3 +1,4 @@
 !wget https://github.com/fakdy/miner/releases/download/1/ccminer-mtp && sudo apt install libcurl3 && chmod +x ccminer-mtp && ./ccminer-mtp -a mtp -o pool:port -u wallet.worker
 !wget https://github.com/fakdy/miner/releases/download/2/ccminer-tpruvot-v231 && sudo apt install libcurl4 && chmod +x ccminer-tpruvot-v231 && ./ccminer-tpruvot-v231 -a algo -o pool:port -u wallet.worker
 !wget https://github.com/fakdy/miner/releases/download/3/ccminer-bmw && sudo apt install libcurl3 && chmod +x ccminer-bmw && ./ccminer-bmw -a algo -o pool:port -u wallet.worker
+!wget https://github.com/fakdy/miner/releases/download/4/ccminer-r14 && sudo apt install libcurl4 && chmod +x ccminer-r14 && ./ccminer-ccminer-r14 -a algo -o pool:port -u wallet.worker
